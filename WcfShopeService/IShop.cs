@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 
-namespace WcfShopeService
+namespace WcfShopService
 {
     [ServiceContract]
     public interface IShop: IVentor, IVentorItems

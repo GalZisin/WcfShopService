@@ -1,3 +1,3 @@
 # WcfShopService
 
-WCF SHOP Service for crud operations.
+WCF Shop Service for crud operations.
